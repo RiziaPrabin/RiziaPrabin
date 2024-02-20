@@ -2,7 +2,7 @@
 <div><br class="Apple-interchange-newline">
 
   I’m currently learning B.tech in Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on 
+- 
 - 📫 Reach me : via insta id @richi_.1918
 
 
@@ -18,7 +18,7 @@
 * Web Development
 * Drawing
 
-## Contact
+## Contact 📞
 
 * LinkedIn: 
 
