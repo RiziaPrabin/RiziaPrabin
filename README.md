@@ -1,28 +1,26 @@
-## - 👋  Hi, I’m @RiziaPrabin
+## - 👋  Hi there, I’m Rizia Prabin
 <div><br class="Apple-interchange-newline">
-
-  I’m currently learning B.tech in Computer Science and Engineering.
-- 
-- 📫 Reach me : via insta id @richi_.1918
-
-
-
-
+  
+  I’m currently learning B.tech in Computer Science and Engineering at Saintgits College Of Engineering. 
+  Dive 🦈 into my Github repository ✨ to discover projects and contributions,crafted with curiosity and a drive for innovation..
+          
 ## Skills 🙌
 
-* Programming Languages: Python, Java, C
+* Well versed in Programming Languages: Python, Java,C
 * Skills: Teamwork, Communication, Coding, Presentation Skills
+* Languages known : English, Malayalam, Hindi
 
 ## Interests ❤️
 
-* Web Development
-* Drawing
+* Web Development 💻
+* AI Tools ⚙
+* Travelling ✈
+* Art 🎨
 
-## Contact 📞
+## - 📫 Reach me : via Instagram @richi_.1918
 
-* LinkedIn: 
-
-I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!</div>
+Happy to collaborate with fellow enthusiasts and spread positivity through code.
+Let's create something wonderful! !</div>
 
 RiziaPrabin/RiziaPrabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
