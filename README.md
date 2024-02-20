@@ -5,13 +5,13 @@
   I’m currently learning B.tech in Computer Science and Engineering at Saintgits College Of Engineering. 
   Dive 🦈 into my Github repository ✨ to discover projects and contributions,crafted with curiosity and a drive for innovation..
           
-## Skills 🙌
+## - Skills 🙌
 
 * Well versed in Programming Languages: C,Java,Python            ![xero-code](https://github.com/RiziaPrabin/RiziaPrabin/assets/160464556/f58fa1bd-7435-4619-8cec-57aabb6ed2de)
 * Skills: Teamwork, Communication, Coding, Presentation Skills
 * Languages known : English, Malayalam, Hindi
 
-## Interests ❤️
+## - Interests ❤️
 
 * Web Development 💻
 * AI Tools ⚙
