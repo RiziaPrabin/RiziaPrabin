@@ -22,6 +22,5 @@
 Happy to collaborate with fellow enthusiasts and spread positivity through code.
 Let's create something wonderful! !</div>
 
-RiziaPrabin/RiziaPrabin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
