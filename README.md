@@ -7,7 +7,7 @@
           
 ## - Skills 🙌
 
-* Well versed in Programming Languages: C,Java,Python            ![xero-code](https://github.com/RiziaPrabin/RiziaPrabin/assets/160464556/f58fa1bd-7435-4619-8cec-57aabb6ed2de)
+* Well versed in Programming Languages: C,Java,Python         
 * Skills: Teamwork, Communication, Coding, Presentation Skills
 * Languages known : English, Malayalam, Hindi
 
