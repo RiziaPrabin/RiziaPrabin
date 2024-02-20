@@ -21,7 +21,7 @@
 ## - 📫 Reach me : via Instagram @richi_.1918
 
 Happy to collaborate with fellow enthusiasts and spread positivity through code.
-Let's create something wonderful! !</div>
+Let's create something wonderful! </div>
 
 
 
