@@ -1,13 +1,9 @@
 ## - 👋  Hi, I’m @RiziaPrabin
 <div><br class="Apple-interchange-newline">
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  I’m currently learning B.tech in Computer Science and Engineering.
+- 💞️ I’m looking to collaborate on 
+- 📫 Reach me : via insta id @richi_.1918
 
 
 
@@ -19,9 +15,8 @@
 
 ## Interests ❤️
 
-* Machine Learning
 * Web Development
-* Racing
+* Drawing
 
 ## Contact
 
