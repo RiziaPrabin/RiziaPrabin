@@ -18,8 +18,8 @@
 * Travelling ✈
 * Art 🎨
 
-## - 📫 Reach me : via Instagram @richi_.1918
-
+## - 📫  Reach me : via LinkedIn  https://www.linkedin.com/in/rizia-sara-prabin-2126b12b6/
+## - 📫 Reach me : via Instagram @rizia_prabin
 Happy to collaborate with fellow enthusiasts and spread positivity through code.
 Let's create something wonderful! </div>
 
