@@ -7,7 +7,7 @@
           
 ## - Skills 🙌
 
-* Well versed in Programming Languages: C,Java,Python         
+* Well versed in Programming Languages: C,Java,Python,Javascript         
 * Skills: Teamwork, Communication, Coding, Presentation Skills
 * Languages known : English, Malayalam, Hindi
 
