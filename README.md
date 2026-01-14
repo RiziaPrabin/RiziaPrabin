@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Rizia Sara Prabin**
+# 👋 Hi, I'm **Rizia Prabin**
 
 ### CSE Student | Web Developer | Tech Enthusiast  
 
